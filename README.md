@@ -4,10 +4,10 @@
 </picture>
 
 <p align="center">
-  <a href="#sobre">Sobre</a> &nbsp; · &nbsp;
-  <a href="#tecnologias">Tecnologias</a> &nbsp; · &nbsp;
-  <a href="#projetos">Projetos</a> &nbsp; · &nbsp;
-  <a href="#contato">Contato</a>
+  <a href="#sobre"><img src="./assets/buttons/about.svg" width="96" height="36" alt="Sobre"></a>
+  <a href="#tecnologias"><img src="./assets/buttons/stack.svg" width="145" height="36" alt="Tecnologias"></a>
+  <a href="#projetos"><img src="./assets/buttons/projects.svg" width="116" height="36" alt="Projetos"></a>
+  <a href="#contato"><img src="./assets/buttons/contact.svg" width="112" height="36" alt="Contato"></a>
 </p>
 
 <h2 id="sobre">👋 Sobre mim</h2>
@@ -60,15 +60,15 @@ Meus projetos incluem ferramentas de estudo, geração de documentos e APIs de l
 
 | Projeto | Descrição e tecnologias |
 | :--- | :--- |
-| **🧭 Norte**<br>[Site](https://joaovitorgoncalvesdev.github.io/norte-estudos/) · [Código](https://github.com/joaovitorgoncalvesdev/norte-estudos) | Planejamento de estudos, foco, questões, simulados e revisões, com o assistente NORBIT.<br><sub>HTML, CSS e JavaScript</sub> |
-| **📄 FácilPDF**<br>[Site](https://joaovitorgoncalvesdev.github.io/FacilPdf/) · [Código](https://github.com/joaovitorgoncalvesdev/FacilPdf) | Preenchimento de documentos, OCR e geração de PDF e Word no navegador.<br><sub>React, TypeScript, Vite, Tesseract.js e pdfmake</sub> |
-| **📚 React Books**<br>[Código](https://github.com/joaovitorgoncalvesdev/React-Books) | Interface de livros conectada a uma API Node.js.<br><sub>React, JavaScript, Node.js e Express</sub> |
-| **🔌 API Biblioteca**<br>[Código](https://github.com/joaovitorgoncalvesdev/api-biblioteca) | API REST para gerenciar livros e autores.<br><sub>Node.js, Express, MongoDB e Mongoose</sub> |
+| **🧭 Norte**<br><a href="https://joaovitorgoncalvesdev.github.io/norte-estudos/"><img src="./assets/buttons/site.svg" width="106" height="36" alt="Abrir site"></a> <a href="https://github.com/joaovitorgoncalvesdev/norte-estudos"><img src="./assets/buttons/code.svg" width="100" height="36" alt="Código"></a> | Planejamento de estudos, foco, questões, simulados e revisões, com o assistente NORBIT.<br><sub>HTML, CSS e JavaScript</sub> |
+| **📄 FácilPDF**<br><a href="https://joaovitorgoncalvesdev.github.io/FacilPdf/"><img src="./assets/buttons/site.svg" width="106" height="36" alt="Abrir site"></a> <a href="https://github.com/joaovitorgoncalvesdev/FacilPdf"><img src="./assets/buttons/code.svg" width="100" height="36" alt="Código"></a> | Preenchimento de documentos, OCR e geração de PDF e Word no navegador.<br><sub>React, TypeScript, Vite, Tesseract.js e pdfmake</sub> |
+| **📚 React Books**<br><a href="https://github.com/joaovitorgoncalvesdev/React-Books"><img src="./assets/buttons/code.svg" width="100" height="36" alt="Código"></a> | Interface de livros conectada a uma API Node.js.<br><sub>React, JavaScript, Node.js e Express</sub> |
+| **🔌 API Biblioteca**<br><a href="https://github.com/joaovitorgoncalvesdev/api-biblioteca"><img src="./assets/buttons/code.svg" width="100" height="36" alt="Código"></a> | API REST para gerenciar livros e autores.<br><sub>Node.js, Express, MongoDB e Mongoose</sub> |
 | **🏛️ Vitrine Glauber**<br><sub>🔒 Privado</sub> | Vitrine dos boxes e produtos do Centro Cultural Glauber Rocha, com gestão separada.<br><sub>Vue 3, Quasar, JavaScript, Pinia e Vue Router</sub> |
 | **📡 Monitor de Sites e APIs**<br><sub>🛠️ Em desenvolvimento</sub> | Verificações HTTP, tempo de resposta e histórico no banco de dados.<br><sub>Node.js, Express, TypeScript e PostgreSQL</sub> |
 
 <h2 id="contato">📫 Contato</h2>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/jo%C3%A3o-vitor-gon%C3%A7alves-de-jesus-2968233b6/"><img src="./assets/linkedin.svg" width="25" height="25" alt=""> <b>João Vitor no LinkedIn</b></a>
+  <a href="https://www.linkedin.com/in/jo%C3%A3o-vitor-gon%C3%A7alves-de-jesus-2968233b6/"><img src="./assets/buttons/linkedin.svg" width="160" height="36" alt="Meu LinkedIn"></a>
 </p>
