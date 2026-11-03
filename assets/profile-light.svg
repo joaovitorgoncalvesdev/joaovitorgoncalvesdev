@@ -1,15 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="960" height="190" viewBox="0 0 960 190" role="img" aria-labelledby="title desc">
-<title id="title">João Vitor Gonçalves</title>
-<desc id="desc">Desenvolvimento full-stack. JavaScript, Node.js e React.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" width="460" height="52" viewBox="0 0 460 52" role="img" aria-labelledby="title">
+<title id="title">JavaScript, Node.js e React</title>
 <style>
-text{font-family:Verdana,DejaVu Sans,sans-serif}
-.reveal{animation:arrive 900ms cubic-bezier(.16,1,.3,1) both}
-.role{animation-delay:120ms}
-@keyframes arrive{from{opacity:.45;transform:translateY(8px)}to{opacity:1;transform:translateY(0)}}
-@media(prefers-reduced-motion:reduce){.reveal{animation:none}}
+text{font-family:Verdana,DejaVu Sans,sans-serif;animation:arrive 900ms cubic-bezier(.16,1,.3,1) both}
+@keyframes arrive{from{opacity:.45;transform:translateY(5px)}to{opacity:1;transform:translateY(0)}}
+@media(prefers-reduced-motion:reduce){text{animation:none}}
 </style>
-<text class="reveal" x="0" y="77" fill="#24292f" font-size="59" font-weight="700" letter-spacing="-2">João Vitor Gonçalves</text>
-<text class="reveal role" x="2" y="120" fill="#247653" font-size="23">Desenvolvimento full-stack</text>
-<text x="2" y="157" fill="#57606a" font-size="18">JavaScript / Node.js / React</text>
-<path d="M2 188H958" stroke="#d0d7de" stroke-width="1"/>
+<text x="0" y="34" fill="#247653" font-size="26" font-weight="600">JavaScript / Node.js / React</text>
 </svg>
