@@ -30,7 +30,7 @@ text{font-family:'Trebuchet MS',Verdana,sans-serif}
 <text class="word" x="32" y="199">João Vitor</text>
 <text class="word second" x="32" y="267">Gonçalves</text>
 </g>
-<text x="34" y="325" fill="#b1c7d4" font-size="29">Desenvolvimento full-stack</text>
-<text x="34" y="380" fill="#66cbe3" font-size="25">JavaScript / Node.js / React</text>
+<text x="34" y="325" fill="#b1c7d4" font-size="32">Desenvolvimento full-stack</text>
+<text x="34" y="380" fill="#66cbe3" font-size="32">JavaScript / Node.js / React</text>
 </g>
 </svg>
