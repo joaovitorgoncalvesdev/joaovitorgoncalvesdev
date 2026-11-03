@@ -1,67 +1,36 @@
-<div align="center">
+# João Vitor Gonçalves
 
-<!-- Ondas e efeito de digitação são imagens SVG animadas. -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:6366F1,100:A855F7&height=180&section=header&text=Jo%C3%A3o%20Vitor&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Desenvolvimento%20Full%20Stack&descAlignY=60&descSize=18" alt="João Vitor — Desenvolvimento Full Stack" />
+Desenvolvimento full-stack.
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3200&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&height=55&lines=Ol%C3%A1%2C+eu+sou+o+Jo%C3%A3o+Vitor!;Do+front-end+ao+back-end.;Aprendendo%2C+criando+e+evoluindo+com+cada+projeto." alt="Texto animado: Olá, eu sou o João Vitor! Do front-end ao back-end. Aprendendo, criando e evoluindo com cada projeto." width="100%" />
-</a>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/profile-dark.svg">
+  <img src="./assets/profile-light.svg" alt="JavaScript, Node.js e React" width="460">
+</picture>
 
-**JavaScript · Node.js · React**
+Desenvolvo interfaces e APIs com **JavaScript, Node.js e React**. Também uso Vue e Quasar nos meus projetos.
 
-Interfaces bem cuidadas. APIs organizadas. Aprendizado na prática.
+Estou desenvolvendo um monitor de sites e APIs para estudar back-end: fazer verificações HTTP, medir o tempo de resposta e guardar o histórico no PostgreSQL. Agora estou separando as responsabilidades do Controller e do Service.
 
-<a href="https://github.com/joaovitorgoncalvesdev?tab=repositories"><img src="https://img.shields.io/badge/Explore_meus_projetos-8B5CF6?style=for-the-badge&logo=github&logoColor=white" alt="Explore meus projetos" /></a>
+## Projetos
 
-</div>
+**[Vitrine Glauber](https://github.com/joaovitorgoncalvesdev/Vitrine_Glauber)**  
+Uma vitrine para os boxes e produtos do Centro Cultural Glauber Rocha, em Vitória da Conquista. O projeto tem uma área pública e uma aplicação de gestão separada.  
+<sub>Vue 3, Quasar, JavaScript</sub>
 
-## 👨‍💻 Sobre mim
+**[React Books](https://github.com/joaovitorgoncalvesdev/React-Books)**  
+Aplicação de livros com uma interface em React consumindo uma API feita com Node.js e Express.  
+<sub>React, Node.js, Express</sub>
 
-Sou João Vitor e estou construindo minha trajetória no desenvolvimento **full-stack**, com foco em **JavaScript, Node.js e React**. Gosto de entender como cada parte de uma aplicação funciona e transformar esse aprendizado em projetos reais.
+**[API Biblioteca](https://github.com/joaovitorgoncalvesdev/api-biblioteca)**  
+API REST para cadastrar, consultar, editar e excluir livros e autores.  
+<sub>Node.js, Express, MongoDB</sub>
 
-- 🛠️ Desenvolvo interfaces com **Vue, Quasar e React**, além de APIs com **Node.js e Express**.
-- 📚 Estou aprofundando meus estudos em **TypeScript, PostgreSQL e arquitetura em camadas**.
-- 🔎 Meu projeto de aprendizado atual é um **Monitor de Sites e APIs**, com verificações HTTP, tempo de resposta e histórico no banco de dados.
-- 🎯 Busco evoluir na organização do código, no tratamento de erros e na experiência de quem usa minhas aplicações.
+## Tecnologias
 
-## ⚡ Tecnologias
+| Área | Tecnologias |
+| :--- | :--- |
+| Front-end | JavaScript, React, Vue, Quasar, HTML e CSS |
+| Back-end | Node.js, Express, MongoDB |
+| Aprofundando | TypeScript, PostgreSQL, organização em camadas |
 
-<div align="center">
-
-**Front-end**
-
-<img src="https://skillicons.dev/icons?i=html,css,js,react,vue&theme=dark" alt="HTML, CSS, JavaScript, React e Vue" />
-
-**Back-end e banco de dados**
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres&theme=dark" alt="Node.js, Express, MongoDB e PostgreSQL" />
-
-**Ferramentas e estudos**
-
-<img src="https://skillicons.dev/icons?i=ts,git,github,vite&theme=dark" alt="TypeScript, Git, GitHub e Vite" />
-
-</div>
-
-## 🚀 Projetos em destaque
-
-| Projeto | O que estou construindo | Tecnologias |
-| :--- | :--- | :--- |
-| 🏛️ **[Vitrine Glauber](https://github.com/joaovitorgoncalvesdev/Vitrine_Glauber)** | Vitrine digital para descobrir boxes e produtos do Centro Cultural Glauber Rocha. | Vue · Quasar · JavaScript |
-| 📖 **[React Books](https://github.com/joaovitorgoncalvesdev/React-Books)** | Aplicação de livros que conecta uma interface React a uma API Node.js. | React · Node.js · Express |
-| 📚 **[API Biblioteca](https://github.com/joaovitorgoncalvesdev/api-biblioteca)** | API REST para cadastro e gerenciamento de livros e autores. | Node.js · Express · MongoDB |
-
-## 🌱 Aprendendo na prática
-
-No **Monitor de Sites e APIs**, meu foco está em separar as responsabilidades entre Controller e Service, validar as entradas e salvar o histórico das verificações no PostgreSQL.
-
-> Cada projeto é uma oportunidade de escrever um código melhor que o anterior.
-
-<div align="center">
-
-**Vamos trocar ideias sobre desenvolvimento?**
-
-<a href="https://github.com/joaovitorgoncalvesdev"><img src="https://img.shields.io/badge/Jo%C3%A3o_Vitor-181717?style=for-the-badge&logo=github&logoColor=white" alt="Perfil de João Vitor no GitHub" /></a>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:6366F1,100:A855F7&height=110&section=footer&animation=twinkling" alt="Ondas decorativas em azul e roxo" />
-
-</div>
+[LinkedIn](https://www.linkedin.com/in/jo%C3%A3o-vitor-gon%C3%A7alves-de-jesus-2968233b6/) · [Repositórios](https://github.com/joaovitorgoncalvesdev?tab=repositories)
