@@ -4,115 +4,71 @@
 </picture>
 
 <p align="center">
-  <img src="./assets/animated/role.svg" width="560" alt="Desenvolvimento Full Stack">
+  <a href="#sobre">Sobre</a> &nbsp; · &nbsp;
+  <a href="#tecnologias">Tecnologias</a> &nbsp; · &nbsp;
+  <a href="#projetos">Projetos</a> &nbsp; · &nbsp;
+  <a href="#contato">Contato</a>
 </p>
+
+<h2 id="sobre">👋 Sobre mim</h2>
+
+Sou **João Vitor Gonçalves**. Desenvolvo interfaces e APIs com **JavaScript, Node.js e React**, e também trabalho com **Vue e Quasar**.
+
+Meus projetos incluem ferramentas de estudo, geração de documentos e APIs de livros. Atualmente, estou aprofundando meus estudos em **TypeScript, PostgreSQL e arquitetura em camadas** com o **Monitor de Sites e APIs**.
+
+<h2 id="tecnologias">🛠️ Tecnologias</h2>
+
+### Linguagens e back-end
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/jo%C3%A3o-vitor-gon%C3%A7alves-de-jesus-2968233b6/"><img src="./assets/linkedin.svg" width="24" height="24" alt=""> <b>LinkedIn</b></a>
-  &nbsp; &nbsp; | &nbsp; &nbsp;
-  <a href="https://github.com/joaovitorgoncalvesdev?tab=repositories"><b>Meus projetos ↗</b></a>
+  <img src="./assets/animated/javascript.svg" width="92" height="107" alt="JavaScript" title="JavaScript">
+  <img src="./assets/animated/typescript.svg" width="92" height="107" alt="TypeScript" title="TypeScript">
+  <img src="./assets/animated/nodejs.svg" width="92" height="107" alt="Node.js" title="Node.js">
+  <img src="./assets/animated/express.svg" width="92" height="107" alt="Express" title="Express">
+  <img src="./assets/animated/mongoose.svg" width="92" height="107" alt="Mongoose" title="Mongoose">
 </p>
 
----
-
-## 👋 Quem sou eu
-
-Sou **João Vitor Gonçalves** e desenvolvo aplicações web com **JavaScript, Node.js e React**. Também trabalho com **Vue e Quasar**, conectando interfaces, APIs e bancos de dados.
-
-Nos meus projetos, tenho explorado diferentes problemas: organizar estudos, gerar documentos no navegador e criar APIs para gerenciar livros. Gosto de aprender construindo e entender como cada parte da aplicação funciona.
-
----
-
-## 🌱 Atualmente estudando
+### Front-end
 
 <p align="center">
-  <img src="./assets/animated/typescript.svg" width="100" height="116" alt="TypeScript" title="TypeScript">
-  <img src="./assets/animated/postgresql.svg" width="100" height="116" alt="PostgreSQL" title="PostgreSQL">
+  <img src="./assets/animated/html.svg" width="92" height="107" alt="HTML5" title="HTML5">
+  <img src="./assets/animated/css.svg" width="92" height="107" alt="CSS3" title="CSS3">
+  <img src="./assets/animated/react.svg" width="92" height="107" alt="React" title="React">
+  <img src="./assets/animated/vue.svg" width="92" height="107" alt="Vue" title="Vue">
+  <img src="./assets/animated/quasar.svg" width="92" height="107" alt="Quasar" title="Quasar">
+  <img src="./assets/animated/pinia.svg" width="92" height="107" alt="Pinia" title="Pinia">
 </p>
 
-Estou aprofundando meus estudos em **TypeScript, PostgreSQL e arquitetura em camadas**.
-
-Meu projeto atual é um **Monitor de Sites e APIs**. Já consegui salvar uma verificação no PostgreSQL e agora estou organizando o Controller e o Service, com atenção à validação das entradas e ao tratamento de erros.
-
----
-
-## 🛠️ Stack e ferramentas
-
-### Linguagens
+### Bancos de dados
 
 <p align="center">
-  <img src="./assets/animated/javascript.svg" width="100" height="116" alt="JavaScript" title="JavaScript">
-  <img src="./assets/animated/typescript.svg" width="100" height="116" alt="TypeScript" title="TypeScript">
+  <img src="./assets/animated/postgresql.svg" width="92" height="107" alt="PostgreSQL" title="PostgreSQL">
+  <img src="./assets/animated/mongodb.svg" width="92" height="107" alt="MongoDB" title="MongoDB">
 </p>
 
-### ⚙️ Back-end
+### Ferramentas
 
 <p align="center">
-  <img src="./assets/animated/nodejs.svg" width="100" height="116" alt="Node.js" title="Node.js">
-  <img src="./assets/animated/express.svg" width="100" height="116" alt="Express" title="Express">
-  <img src="./assets/animated/mongoose.svg" width="100" height="116" alt="Mongoose" title="Mongoose">
+  <img src="./assets/animated/git.svg" width="92" height="107" alt="Git" title="Git">
+  <img src="./assets/animated/github.svg" width="92" height="107" alt="GitHub" title="GitHub">
+  <img src="./assets/animated/vite.svg" width="92" height="107" alt="Vite" title="Vite">
+  <img src="./assets/animated/vitest.svg" width="92" height="107" alt="Vitest" title="Vitest">
+  <img src="./assets/animated/npm.svg" width="92" height="107" alt="npm" title="npm">
 </p>
 
-### 🎨 Front-end
+<h2 id="projetos">🚀 Projetos</h2>
 
-<p align="center">
-  <img src="./assets/animated/html.svg" width="100" height="116" alt="HTML5" title="HTML5">
-  <img src="./assets/animated/css.svg" width="100" height="116" alt="CSS3" title="CSS3">
-  <img src="./assets/animated/react.svg" width="100" height="116" alt="React" title="React">
-  <img src="./assets/animated/vue.svg" width="100" height="116" alt="Vue" title="Vue">
-  <img src="./assets/animated/quasar.svg" width="100" height="116" alt="Quasar" title="Quasar">
-  <img src="./assets/animated/pinia.svg" width="100" height="116" alt="Pinia" title="Pinia">
-</p>
-
-### 🗄️ Bancos de dados
-
-<p align="center">
-  <img src="./assets/animated/postgresql.svg" width="100" height="116" alt="PostgreSQL" title="PostgreSQL">
-  <img src="./assets/animated/mongodb.svg" width="100" height="116" alt="MongoDB" title="MongoDB">
-</p>
-
-### 🔧 Ferramentas
-
-<p align="center">
-  <img src="./assets/animated/git.svg" width="100" height="116" alt="Git" title="Git">
-  <img src="./assets/animated/github.svg" width="100" height="116" alt="GitHub" title="GitHub">
-  <img src="./assets/animated/vite.svg" width="100" height="116" alt="Vite" title="Vite">
-  <img src="./assets/animated/vitest.svg" width="100" height="116" alt="Vitest" title="Vitest">
-  <img src="./assets/animated/npm.svg" width="100" height="116" alt="npm" title="npm">
-</p>
-
----
-
-## 🚀 Projetos
-
-| Projeto | O que faz |
+| Projeto | Descrição e tecnologias |
 | :--- | :--- |
-| **🧭 Norte**<br>[Site](https://joaovitorgoncalvesdev.github.io/norte-estudos/) · [Código](https://github.com/joaovitorgoncalvesdev/norte-estudos) | Painel de estudos com planejamento, foco, questões, simulados, revisões e o assistente NORBIT.<br>**HTML, CSS e JavaScript** |
-| **📄 FácilPDF**<br>[Site](https://joaovitorgoncalvesdev.github.io/FacilPdf/) · [Código](https://github.com/joaovitorgoncalvesdev/FacilPdf) | Preenchimento de documentos, importação com OCR e geração de PDF e Word no navegador.<br>**React, TypeScript, Vite, Tesseract.js e pdfmake** |
-| **📚 React Books**<br>[Código](https://github.com/joaovitorgoncalvesdev/React-Books) | Interface de livros em React conectada a uma API Node.js.<br>**React, JavaScript, Node.js e Express** |
-| **🔌 API Biblioteca**<br>[Código](https://github.com/joaovitorgoncalvesdev/api-biblioteca) | API REST para cadastrar, consultar, editar e excluir livros e autores.<br>**Node.js, Express, MongoDB e Mongoose** |
+| **🧭 Norte**<br>[Site](https://joaovitorgoncalvesdev.github.io/norte-estudos/) · [Código](https://github.com/joaovitorgoncalvesdev/norte-estudos) | Planejamento de estudos, foco, questões, simulados e revisões, com o assistente NORBIT.<br><sub>HTML, CSS e JavaScript</sub> |
+| **📄 FácilPDF**<br>[Site](https://joaovitorgoncalvesdev.github.io/FacilPdf/) · [Código](https://github.com/joaovitorgoncalvesdev/FacilPdf) | Preenchimento de documentos, OCR e geração de PDF e Word no navegador.<br><sub>React, TypeScript, Vite, Tesseract.js e pdfmake</sub> |
+| **📚 React Books**<br>[Código](https://github.com/joaovitorgoncalvesdev/React-Books) | Interface de livros conectada a uma API Node.js.<br><sub>React, JavaScript, Node.js e Express</sub> |
+| **🔌 API Biblioteca**<br>[Código](https://github.com/joaovitorgoncalvesdev/api-biblioteca) | API REST para gerenciar livros e autores.<br><sub>Node.js, Express, MongoDB e Mongoose</sub> |
+| **🏛️ Vitrine Glauber**<br><sub>🔒 Privado</sub> | Vitrine dos boxes e produtos do Centro Cultural Glauber Rocha, com gestão separada.<br><sub>Vue 3, Quasar, JavaScript, Pinia e Vue Router</sub> |
+| **📡 Monitor de Sites e APIs**<br><sub>🛠️ Em desenvolvimento</sub> | Verificações HTTP, tempo de resposta e histórico no banco de dados.<br><sub>Node.js, Express, TypeScript e PostgreSQL</sub> |
 
-### 🔒 Projeto privado
+<h2 id="contato">📫 Contato</h2>
 
-**Vitrine Glauber**  
-Vitrine digital para os boxes e produtos do Centro Cultural Glauber Rocha, com área pública e aplicação de gestão separada.
-
-**Vue 3, Quasar, JavaScript, Pinia e Vue Router**  
-<sub>O repositório é privado.</sub>
-
-### 🛠️ Em desenvolvimento
-
-**Monitor de Sites e APIs**  
-Verificações HTTP, medição do tempo de resposta e histórico das verificações no banco de dados.
-
-**Node.js, Express, TypeScript e PostgreSQL**
-
----
-
-<div align="center">
-
-## 📫 Contato
-
-<a href="https://www.linkedin.com/in/jo%C3%A3o-vitor-gon%C3%A7alves-de-jesus-2968233b6/"><img src="./assets/linkedin.svg" width="28" height="28" alt=""> <b>João Vitor no LinkedIn</b></a>
-
-</div>
+<p align="center">
+  <a href="https://www.linkedin.com/in/jo%C3%A3o-vitor-gon%C3%A7alves-de-jesus-2968233b6/"><img src="./assets/linkedin.svg" width="25" height="25" alt=""> <b>João Vitor no LinkedIn</b></a>
+</p>
