@@ -58,14 +58,71 @@ Meus projetos incluem ferramentas de estudo, geração de documentos e APIs de l
 
 <h2 id="projetos">🚀 Projetos</h2>
 
-| Projeto | Descrição e tecnologias |
-| :--- | :--- |
-| **🧭 Norte**<br><a href="https://joaovitorgoncalvesdev.github.io/norte-estudos/"><img src="./assets/buttons/site.svg" width="106" height="36" alt="Abrir site"></a> <a href="https://github.com/joaovitorgoncalvesdev/norte-estudos"><img src="./assets/buttons/code.svg" width="100" height="36" alt="Código"></a> | Planejamento de estudos, foco, questões, simulados e revisões, com o assistente NORBIT.<br><sub>HTML, CSS e JavaScript</sub> |
-| **📄 FácilPDF**<br><a href="https://joaovitorgoncalvesdev.github.io/FacilPdf/"><img src="./assets/buttons/site.svg" width="106" height="36" alt="Abrir site"></a> <a href="https://github.com/joaovitorgoncalvesdev/FacilPdf"><img src="./assets/buttons/code.svg" width="100" height="36" alt="Código"></a> | Preenchimento de documentos, OCR e geração de PDF e Word no navegador.<br><sub>React, TypeScript, Vite, Tesseract.js e pdfmake</sub> |
-| **📚 React Books**<br><a href="https://github.com/joaovitorgoncalvesdev/React-Books"><img src="./assets/buttons/code.svg" width="100" height="36" alt="Código"></a> | Interface de livros conectada a uma API Node.js.<br><sub>React, JavaScript, Node.js e Express</sub> |
-| **🔌 API Biblioteca**<br><a href="https://github.com/joaovitorgoncalvesdev/api-biblioteca"><img src="./assets/buttons/code.svg" width="100" height="36" alt="Código"></a> | API REST para gerenciar livros e autores.<br><sub>Node.js, Express, MongoDB e Mongoose</sub> |
-| **🏛️ Vitrine Glauber**<br><sub>🔒 Privado</sub> | Vitrine dos boxes e produtos do Centro Cultural Glauber Rocha, com gestão separada.<br><sub>Vue 3, Quasar, JavaScript, Pinia e Vue Router</sub> |
-| **📡 Monitor de Sites e APIs**<br><sub>🛠️ Em desenvolvimento</sub> | Verificações HTTP, tempo de resposta e histórico no banco de dados.<br><sub>Node.js, Express, TypeScript e PostgreSQL</sub> |
+### <img src="./assets/projects/norte.svg" width="34" height="34" alt=""> Norte
+
+**Um espaço para organizar os estudos.**
+
+Planejamento, sessões de foco, questões, simulados e revisões em uma aplicação com o assistente NORBIT.
+
+<p><code>HTML</code> <code>CSS</code> <code>JavaScript</code></p>
+
+<p>
+  <a href="https://joaovitorgoncalvesdev.github.io/norte-estudos/"><img src="./assets/buttons/site.svg" width="106" height="36" alt="Abrir site"></a>
+  <a href="https://github.com/joaovitorgoncalvesdev/norte-estudos"><img src="./assets/buttons/code.svg" width="100" height="36" alt="Ver código"></a>
+</p>
+
+<br>
+
+### <img src="./assets/projects/facilpdf.svg" width="34" height="34" alt=""> FácilPDF
+
+**Do preenchimento ao documento pronto.**
+
+Importação de dados com OCR, preenchimento e geração de arquivos PDF e Word. O processamento e o histórico ficam no navegador.
+
+<p><code>React</code> <code>TypeScript</code> <code>Vite</code> <code>Tesseract.js</code> <code>pdfmake</code></p>
+
+<p>
+  <a href="https://joaovitorgoncalvesdev.github.io/FacilPdf/"><img src="./assets/buttons/site.svg" width="106" height="36" alt="Abrir site"></a>
+  <a href="https://github.com/joaovitorgoncalvesdev/FacilPdf"><img src="./assets/buttons/code.svg" width="100" height="36" alt="Ver código"></a>
+</p>
+
+<br>
+
+### <img src="./assets/react.svg" width="30" height="30" alt=""> React Books
+
+Uma interface de livros em React, conectada a uma API feita com Node.js e Express.
+
+<p><code>React</code> <code>JavaScript</code> <code>Node.js</code> <code>Express</code></p>
+
+<p><a href="https://github.com/joaovitorgoncalvesdev/React-Books"><img src="./assets/buttons/code.svg" width="100" height="36" alt="Ver código"></a></p>
+
+<br>
+
+### <img src="./assets/nodejs.svg" width="30" height="30" alt=""> API Biblioteca
+
+API REST para cadastrar, consultar, editar e excluir livros e autores, com persistência no MongoDB.
+
+<p><code>Node.js</code> <code>Express</code> <code>MongoDB</code> <code>Mongoose</code></p>
+
+<p><a href="https://github.com/joaovitorgoncalvesdev/api-biblioteca"><img src="./assets/buttons/code.svg" width="100" height="36" alt="Ver código"></a></p>
+
+---
+
+### 🔒 Vitrine Glauber
+
+<sub>REPOSITÓRIO PRIVADO</sub>
+
+Vitrine digital dos boxes e produtos do Centro Cultural Glauber Rocha, com área pública e aplicação de gestão separada.
+
+<p><code>Vue 3</code> <code>Quasar</code> <code>JavaScript</code> <code>Pinia</code> <code>Vue Router</code></p>
+
+### 🛠️ Monitor de Sites e APIs
+
+<sub>EM DESENVOLVIMENTO</sub>
+
+Verificações HTTP, medição do tempo de resposta e histórico no PostgreSQL. Meu foco atual é organizar o Controller e o Service e melhorar o tratamento de erros.
+
+<p><code>Node.js</code> <code>Express</code> <code>TypeScript</code> <code>PostgreSQL</code></p>
 
 <h2 id="contato">📫 Contato</h2>
 
