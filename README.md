@@ -4,10 +4,10 @@
 </picture>
 
 <p align="center">
-  <a href="#sobre"><img src="./assets/buttons/about.svg" width="96" height="36" alt="Sobre"></a>
-  <a href="#tecnologias"><img src="./assets/buttons/stack.svg" width="145" height="36" alt="Tecnologias"></a>
-  <a href="#projetos"><img src="./assets/buttons/projects.svg" width="116" height="36" alt="Projetos"></a>
-  <a href="#contato"><img src="./assets/buttons/contact.svg" width="112" height="36" alt="Contato"></a>
+  <a href="#user-content-sobre"><img src="./assets/buttons/about.svg" width="96" height="36" alt="Sobre"></a>
+  <a href="#user-content-tecnologias"><img src="./assets/buttons/stack.svg" width="145" height="36" alt="Tecnologias"></a>
+  <a href="#user-content-projetos"><img src="./assets/buttons/projects.svg" width="116" height="36" alt="Projetos"></a>
+  <a href="#user-content-contato"><img src="./assets/buttons/contact.svg" width="112" height="36" alt="Contato"></a>
 </p>
 
 <h2 id="sobre">👋 Sobre mim</h2>
