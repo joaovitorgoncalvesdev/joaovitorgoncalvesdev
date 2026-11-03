@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="100" height="116" viewBox="0 0 100 116" role="img" aria-labelledby="title"><title id="title">CSS3</title>
+<style>
+.tile{fill:#101a29;stroke:#26374b}.label{font:13px Verdana,sans-serif;fill:#d7e4f2}
+.mark{transform-box:fill-box;transform-origin:center;animation:float 4.5s ease-in-out infinite;animation-delay:-0s}
+
+.edge{fill:none;stroke:#58a6ff;stroke-width:1.4;stroke-dasharray:20 285;animation:edge 8s linear infinite;opacity:.65}
+@keyframes float{0%,100%{transform:translateY(2px) rotate(-3deg)}50%{transform:translateY(-4px) rotate(3deg)}}
+@keyframes spin{to{transform:rotate(360deg)}}
+@keyframes edge{to{stroke-dashoffset:-305}}
+@media(prefers-reduced-motion:reduce){.mark,.edge{animation:none}}
+</style>
+<rect class="tile" x="5" y="5" width="90" height="105" rx="15"/>
+<rect class="edge" x="5" y="5" width="90" height="105" rx="15"/>
+<g class="mark"><svg x="25" y="19" width="50" height="50" viewBox="0 0 128 128"><path fill="#1572B6" d="M18.814 114.123L8.76 1.352h110.48l-10.064 112.754-45.243 12.543-45.119-12.526z"/><path fill="#33A9DC" d="M64.001 117.062l36.559-10.136 8.601-96.354h-45.16v106.49z"/><path fill="#fff" d="M64.001 51.429h18.302l1.264-14.163H64.001V23.435h34.682l-.332 3.711-3.4 38.114h-30.95V51.429z"/><path fill="#EBEBEB" d="M64.083 87.349l-.061.018-15.403-4.159-.985-11.031H33.752l1.937 21.717 28.331 7.863.063-.018v-14.39z"/><path fill="#fff" d="M81.127 64.675l-1.666 18.522-15.426 4.164v14.39l28.354-7.858.208-2.337 2.406-26.881H81.127z"/><path fill="#EBEBEB" d="M64.048 23.435v13.831H30.64l-.277-3.108-.63-7.012-.331-3.711h34.646zm-.047 27.996v13.831H48.792l-.277-3.108-.631-7.012-.33-3.711h16.447z"/></svg></g>
+<text class="label" x="50" y="94" text-anchor="middle">CSS3</text>
+</svg>
